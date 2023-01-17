@@ -1,0 +1,3 @@
+/Users/zhangjinhao05/my_learn/threadPool_learn/build/CMakeFiles/main.dir
+/Users/zhangjinhao05/my_learn/threadPool_learn/build/CMakeFiles/edit_cache.dir
+/Users/zhangjinhao05/my_learn/threadPool_learn/build/CMakeFiles/rebuild_cache.dir

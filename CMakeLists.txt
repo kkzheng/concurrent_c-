@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.15)
+project(thread-pool)
+include_directories(include/)
+set(HEADERS include/SafeQueue.h include/ThreadPool.h)
+set(SOURCES main.cc)
+SET(CMAKE_CXX_FLAGS -pthread)
+add_compile_options(-std=c++11)
+add_executable(main ${HEADERS} ${SOURCES})
